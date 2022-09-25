@@ -1,2 +1,2 @@
-# Calculando-Pre-o-Fraldas
+# Calculando Preco Fraldas 
 Repositório criado somente para treinamento com Delphi7
